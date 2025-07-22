@@ -1,2 +1,2 @@
-# elin_memo
-ゲーム、Elinの攻略メモ
+# game-memos
+ゲームの攻略メモ
